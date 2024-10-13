@@ -30,7 +30,7 @@ const ProjectItem = ({ project }) => (
         loop
         muted
         playsInline
-        className="w-full h-auto max-h-[200px] object-cover transition-transform duration-300 hover:scale-105"
+        className="w-full h-[200px] object-cover transition-transform duration-300 hover:scale-105"
       >
         Your browser does not support the video tag.
       </video>
